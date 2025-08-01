@@ -14,3 +14,9 @@
 
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/amirhtym/DokoThym/main/dokothym.sh)
+
+
+TRX,USDT wallet for donate
+TBWC2Z4qcaguztUxu9g5i9diKcCTwTH2U7
+
+آدرس ولت ترون برای دونیت :)
