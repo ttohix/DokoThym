@@ -14,6 +14,6 @@
 ## نصب و اجرا
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/amirhtym/DokoThym/main/dokothym.sh)
+bash <(curl -sL https://raw.githubusercontent.com/ttohix/DokoThym/main/dokothym.sh)
 
 
